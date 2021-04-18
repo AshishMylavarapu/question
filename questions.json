@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What is 6**2",
+        "a": "36",
+        "b": "8",
+        "c": "6",
+        "answer": "A"
+    },
+    {
+        "question": "What is 6+4?",
+        "a": "10",
+        "b": "2",
+        "c": "12",
+        "answer": "C"
+    },
+    {
+        "question": "What is 5-5?",
+        "a": "0",
+        "b": "5",
+        "c": "1",
+        "answer": "A"
+    },
+    {
+        "question": "What is 8/4?",
+        "a": "8",
+        "b": "4",
+        "c": "2",
+        "answer": "C"
+    }
+]
