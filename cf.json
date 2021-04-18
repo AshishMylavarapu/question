@@ -1,0 +1,30 @@
+[
+    {
+        "question": "Who is the Prime Minister of India?",
+        "a": "Narendra Modi",
+        "b": "Ramnadh Kovind",
+        "c": "ManmohanSingh",
+        "answer": "A"   
+    },
+    {
+        "question": "Who is the captain of Indian Cricket team?",
+        "a": "Virat Kholi",
+        "b": "Ms.Dhoni",
+        "c": "Rohit Sharma",
+        "answer": "A"
+    },
+    {
+        "question": " CHIRAG is a project launched in which state??",
+        "a": "Chhattisgarh",
+        "b": "Nagaland",
+        "c": "Telangana",
+        "answer": "A"
+    },
+    {
+        "question": " Along with Pranab Mukherjee, how many more persons were conferred the Bharat Ratna Award in the year 2019?",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "answer": "C"
+    }
+]

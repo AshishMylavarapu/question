@@ -1,0 +1,30 @@
+[
+    {
+        "question": "Which planet in our solar system is known as the Red Planet?",
+        "a": "Mars",
+        "b": "Earth",
+        "c": "Jupiter",
+        "answer": "A"   
+    },
+    {
+        "question": "Who invented the Telephone?",
+        "a": "Alexander Graham Bell",
+        "b": "Alexander Fleming",
+        "c": "Johannes Gutenberg",
+        "answer": "A"
+    },
+    {
+        "question": "Who invented the Printing Press?",
+        "a": "Johannes Gutenberg",
+        "b": "Alexander Fleming",
+        "c": "Alexander Graham Bell",
+        "answer": "A"
+    },
+    {
+        "question": "Who invented the Computer??",
+        "a": "Johannes Gutenberg",
+        "b": "Alexander Fleming",
+        "c": "Charles Babbage ",
+        "answer": "C"
+    }
+]
