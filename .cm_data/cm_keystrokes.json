@@ -1,0 +1,18 @@
+{
+    "questions.json": [
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 18 2021 10:07:36",
+            "keyStrokeInfo": "",
+            "position": "14,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 18 2021 10:07:36",
+            "keyStrokeInfo": "A",
+            "position": "14,20"
+        }
+    ]
+}
